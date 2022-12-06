@@ -1,0 +1,10 @@
+Option	Value	Opp	New	New Choice	Value	Result	Value	Check
+A X	4	Rock	Lose	Scissors	3	Tie	0	3
+A Y	8	Rock	Draw	Rock	1	Win	3	4
+A Z	3	Rock	Win	Paper	2	Loss	6	8
+B X	1	Paper	Lose	Rock	1	Loss	0	1
+B Y	5	Paper	Draw	Paper	2	Tie	3	5
+B Z	9	Paper	Win	Scissors	3	Win	6	9
+C X	7	Scissors	Lose	Paper	2	Win	0	2
+C Y	2	Scissors	Draw	Scissors	3	Loss	3	6
+C Z	6	Scissors	Win	Rock	1	Tie	6	7

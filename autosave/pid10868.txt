@@ -1,0 +1,1 @@
+{'C:\\Users\\LukeVidacovich\\.spyder-py3\\AOC22_day3_part2.py': 'C:\\Users\\LukeVidacovich\\.spyder-py3\\autosave\\AOC22_day3_part2.py'}
